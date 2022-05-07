@@ -1,0 +1,137 @@
+nav {
+    background-color: #055160;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    position: sticky;
+    top: 0;
+}
+
+.color-white {
+    color: white;
+}
+
+.hamburger-container {
+    width: 50px;
+    padding: 4px 10px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+.jumbo {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.bg-jumbo {
+    background-color: #3BBC9C;
+}
+
+.profile-container img {
+    width: 100%;
+}
+
+.profile-container {
+    max-width: 220px;
+    margin-bottom: 2rem;
+}
+
+.star-and-line-container {
+    width: 75%;
+    max-width: 500px;
+    margin-bottom: 1rem;
+}
+
+.line-bf-star {
+    height: 4px;
+    width: 100%;
+    background-color: white;
+}
+
+.star-container {
+    width: 70%;
+    min-width: 30px;
+    max-width: 40px;
+}
+
+.portfolio {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.portfolio .line-bf-star {
+    background-color: black;
+}
+
+.contact .line-bf-star {
+    background-color: black;
+}
+
+.portfolio-card .img-container img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn.bg-jumbo {
+    border: 1px solid white;
+    color: white;
+    width: 140px;
+    line-height: 35px;
+}
+
+.btn.bg-jumbo:hover {
+    background-color: #2e574d;
+}
+
+.dwn-icon {
+    width: 25px;
+    display: inline-block;
+    float: left;
+}
+
+.border-bottom {
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #ced4da;
+}
+
+.foot-1 {
+    background-color: #3A546D;
+}
+
+.foot-2 {
+    background-color: #2C3E50;
+}
+
+.green-color {
+    color: #3BBC9C;
+}
+
+.social-container {
+    width: 40px;
+    padding: 0.5rem;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: inline-block;
+}
+.social-icon {
+    width: 20px;
+}
+
+.social-icon.fb {
+    width: 12px;
+}
+
+.social-icon.google {
+    width: 25px;
+}
+
+.social-width {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+}
